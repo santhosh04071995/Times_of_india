@@ -1,0 +1,19 @@
+.logoimg{
+    width: 300px;
+    height: 75px;
+}
+button{
+    border: 0px;
+    background-color: white;
+}
+@media(min-width:768px){
+    .menu_search1{
+           display: none !important;
+        }
+    }
+
+@media(max-width:768px){
+    .mysearch{
+           display: none !important;
+        }
+    }
